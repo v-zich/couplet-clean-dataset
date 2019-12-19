@@ -24,6 +24,8 @@ Chinese Couplets Dataset. Some couplets that contain vulgar words are removed fr
 
     The data is at [./couplets](./couplets/).
 
+2. Download at [here](https://github.com/v-zich/couplet-clean-dataset/releases/download/1.0.0/couplets.zip).
+
 
 # 过滤说明
 该数据集通过敏感词词库，删除了包含敏感词的内容。
